@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screnshot](./screenshot.png)
+![Screnshot](./Screenshot.png)
 
 
 
@@ -95,4 +95,3 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 This [Video](https://www.youtube.com/watch?v=SR5GxoFhIAU) helped me learn it step by step.
-
